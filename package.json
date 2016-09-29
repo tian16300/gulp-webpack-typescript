@@ -1,0 +1,24 @@
+{
+  "name": "generator-webpack-typescript",
+  "version": "1.0.0",
+  "description": "webpack typescript gulp react mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "typescript",
+    "gulp",
+    "react",
+    "mock"
+  ],
+  "files": [
+    "generators/app"
+  ],
+  "author": "txq",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
