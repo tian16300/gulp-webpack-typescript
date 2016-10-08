@@ -2,7 +2,6 @@
   "name": "generator-webpack-typescript",
   "version": "1.0.0",
   "description": "webpack typescript gulp react mock",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +13,7 @@
     "mock"
   ],
   "files": [
-    "generators/app"
+    "generators"
   ],
   "author": "txq",
   "license": "ISC",
