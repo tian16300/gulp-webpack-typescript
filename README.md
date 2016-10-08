@@ -1,4 +1,4 @@
 # gulp-webpack-typescript
 typescript webpack gulp react 
 
-yo gulp-webpack-typescript
+yo generator-webpack-typescript
